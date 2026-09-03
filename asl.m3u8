@@ -1,0 +1,863 @@
+#EXTM3U
+
+# ===== 🇦🇿 AZƏRBAYCAN HD =====
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/AzTV_%282019%29.png" group-title="🇦🇿 Azərbaycan HD",Az TV HD
+http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/%C4%B0ctimai_TV_%282021%29.png" group-title="🇦🇿 Azərbaycan HD",İCTİMAİ HD
+https://live.itv.az/itv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/xezertv.az/logo.png" group-title="🇦🇿 Azərbaycan HD",Xəzər TV
+http://erlyvideo.izone.az:80/xezertv/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Kapaz_TV_Logo_2019.png" group-title="🇦🇿 Azərbaycan HD",Kəpəz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://kanal-s.az/templates/kanals/images/logo.png" group-title="🇦🇿 Azərbaycan HD",Kanal S
+https://lives.atv.az:5443/KANAL-S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="🇦🇿 Azərbaycan HD",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="🇦🇿 Azərbaycan HD",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yLFkdE.png" group-title="🇦🇿 Azərbaycan HD",Naxçıvan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="🇦🇿 Azərbaycan HD",Mədəniyyət TV
+http://109.205.166.68/server124/medeniyyet_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vilayet-tv-az.png" group-title="🇦🇿 Azərbaycan HD",Vilayət TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Space_TV_loqosu_%282021-2023%29.png" group-title="🇦🇿 Azərbaycan HD",Space TV
+http://109.205.166.68/server124/space_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%B0dman_TV_%282019%29.png"group-title="🇦🇿 Azərbaycan HD",İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+
+#EXTINF:-1 tvg-logo="https://www.apagroup.az/assets/images/logo_apatv1.png" group-title="🇦🇿 Azərbaycan HD",APA TV
+http://stream.apa.tv/apastream/video1_stream.m3u8
+
+
+
+#EXTINF:-1 tvg-name="REAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Real_TV_loqosu_%282018%29.png" group-title="🇦🇿 Azərbaycan HD",REAL HD
+http://109.205.166.68/server125/realtv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+
+#EXTINF:-1 tvg-name="ATV HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Azad_Azerbaycan_TV_logosu.png" group-title="🇦🇿 Azərbaycan HD",ATV HD
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+
+
+#EXTINF:-1 tvg-name="CBC AZ HD" tvg-logo="https://www.cbctv.az/favicon.ico" group-title="🇦🇿 Azərbaycan HD",CBC AZ HD
+http://109.205.166.68/server33/hls/cbc_az.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+
+
+#EXTINF:-1 tvg-name="ARB TV HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/ARB_TV.jpg" group-title="🇦🇿 Azərbaycan HD",ARB TV HD
+https://tinyurl.com/aleks-u-romki-47/2187/tracks-v1a1/mono.ts.m3u8
+
+
+
+" group-title="🇦🇿 Azərbaycan HD",ARB 24 HD
+https://arb24.tvstream.az/hls/stream/stream.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="ARB Günəş HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/ARB_G%C3%BCn%C9%99%C5%9F_logo.png" group-title="🇦🇿 Azərbaycan HD",ARB Günəş HD
+https://tinyurl.com/aleks-u-romki-47/2189/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="BAKU TV HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Baku_TV_%282018%29.png" group-title="🇦🇿 Azərbaycan HD",BAKU TV HD
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="DÜNYA TV HD" tvg-logo="https://acra.gov.az/storage/83/download.jpg" group-title="🇦🇿 Azərbaycan HD",DÜNYA TV HD
+https://stream.dunyatv.az/live/dunyatv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="IMAM HUSSEIN TV" tvg-logo="https://image.roku.com/developer_channels/prod/d3495719b00ac056c55f182c5786ebd94042f48802473ca32857678368b0f8a4.jpg" group-title="🇦🇿Azərbaycan HD",IMAM HUSSEIN TV
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/imhtv2publish/imhtv2_480p/chunks.m3u8
+
+
+
+
+
+# ===== 🇹🇷 TÜRKİYƏ HD =====
+
+
+
+#EXTINF:-1 tvg-name="KANAL 7 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Kanal7res1.gif" group-title="🇹🇷 Türkiyə HD",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://www.kanal7avrupa.com/images/logo.png" group-title="🇹🇷 Türkiyə HD",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="NOW TV HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/NOW_TV_(Turkey)_wordmark-red.svg" group-title="🇹🇷 Türkiyə HD",NOW TV HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="🇹🇷 Türkiyə HD",STAR HD
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+
+
+
+#EXTINF:-1 tvg-name="Euro D TV HD" group-title="🇹🇷 Türkiyə HD",Euro D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Kanal D TV HD" group-title="🇹🇷 Türkiyə HD",Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=
+
+
+
+#EXTINF:-1 tvg-name="Kanal D Drama TV HD" group-title="🇹🇷 Türkiyə HD",Kanal D Drama HD
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="SHOW TV HD" group-title="🇹🇷 Türkiyə HD",SHOW HD
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+
+
+
+#EXTINF:-1 tvg-name="A TV HD" group-title="🇹🇷 Türkiyə HD",A TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="A TV Avrupa HD" group-title="🇹🇷 Türkiyə HD",A TV Avrupa HD
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="BEYAZ TV HD" group-title="🇹🇷 Türkiyə HD",BEYAZ TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" TV 4 TV HD" group-title="🇹🇷 Türkiyə HD",TV 4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" TV 8 TV HD" group-title="🇹🇷 Türkiyə HD",TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+
+
+#EXTINF:-1 tvg-name=" TV 8 5TV HD" group-title="🇹🇷 Türkiyə HD",TV 8  5 HD
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" TV 2 TV HD" group-title="🇹🇷 Türkiyə HD",TV 2 HD
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="A2 TV HD" group-title="🇹🇷 Türkiyə HD",A2 TV HD
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Şaban TV HD" group-title="🇹🇷 Türkiyə HD",Şaban TV HD
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TRT 1 TV HD" group-title="🇹🇷 Türkiyə HD",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TRT Turk TV HD" group-title="🇹🇷 Türkiyə HD",TRT Turk HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TRT Avaz TV HD" group-title="🇹🇷 Türkiyə HD",TRT Avaz HD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TRT Haber TV HD" group-title="🇹🇷 Türkiyə HD",TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Yaban TV HD" group-title="🇹🇷 Türkiyə HD",Yaban TV HD
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6868/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="ÇİFÇİ TV HD" group-title="🇹🇷 Türkiyə HD",ÇİFÇİ HD
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Filim Scren TV HD" group-title="🇹🇷 Türkiyə HD",Filim Scren HD
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Dream Turk TV HD" group-title="🇹🇷 Türkiyə HD",Deram Turk HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Diyar TV HD" group-title="🇹🇷 Türkiyə HD",Diyar TV HD
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="LALEGUL TV HD" group-title="🇹🇷 Türkiyə HD",LALEGUL TV HD
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="TRT COCUK TV HD" group-title="🇹🇷 Türkiyə HD",TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Minika cocuk TV HD" group-title="🇹🇷 Türkiyə HD",Minika cocuk HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Minika Go TV HD" group-title="🇹🇷 Türkiyə HD",Minika Go HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+#EXTINF:-1 tvg-name="TRT Diyanet COCUK TV HD" group-title="🇹🇷 Türkiyə HD",TRT Diyanet COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Halk TV HD" group-title="🇹🇷 Türkiyə HD",Halk TV HD
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="N TV HD" group-title="🇹🇷 Türkiyə HD",N TV HD
+https://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
+
+
+
+#EXTINF:-1 tvg-name="OBB TV HD" group-title="🇹🇷 Türkiyə HD",OBB TV HD
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Haber Turk TV HD" group-title="🇹🇷 Türkiyə HD",Haber Turk TV HD
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="N TV HD" group-title="🇹🇷 Türkiyə HD",N TV HD
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+
+
+
+#EXTINF:-1 tvg-name="A Haber TV HD" group-title="🇹🇷 Türkiyə HD",A Haber TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="A Sport TV HD" group-title="🇹🇷 Türkiyə HD",A Sport TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="HT Sport TV HD" group-title="🇹🇷 Türkiyə HD",HT Sport TV HD
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Halk TV HD" group-title="🇹🇷 Türkiyə HD",Halk TV HD
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="360 TV HD" group-title="🇹🇷 Türkiyə HD",360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Damar TV HD" group-title="🇹🇷 Türkiyə HD",Damar TV HD
+https://yayin.santraltr.com/hls/damar.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Dost TV HD" group-title="🇹🇷 Türkiyə HD",Dost TV HD
+https://yayin.santraltr.com/hls/dost.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Çay TV HD" group-title="🇹🇷 Türkiyə HD",Çay TV HD
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Edirne TV HD" group-title="🇹🇷 Türkiyə HD",Edirne TV HD
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+
+
+#EXTINF:-1 tvg-name="Power Turk TV HD" group-title="🇹🇷 Türkiyə HD",Power Turk TV HD
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Power TV HD" group-title="🇹🇷 Türkiyə HD",Power TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Sila TV HD" group-title="🇹🇷 Türkiyə HD",Sila TV HD
+https://yayin.santraltr.com/hls/silatv.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Viva TV HD" group-title="🇹🇷 Türkiyə HD",Viva TV HD
+https://yayin.santraltr.com/hls/vivatv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Güçlü TV HD" group-title="🇹🇷 Türkiyə HD",Güçlü TV HD
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Mavi Karadeniz TV HD" group-title="🇹🇷 Türkiyə HD",Mavi Karadeniz TV HD
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Tempo TV HD" group-title="🇹🇷 Türkiyə HD",Tempo TV HD
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Top Pop TV HD" group-title="🇹🇷 Türkiyə HD",Top Pop TV HD
+https://yayin.santraltr.com/hls/toppop.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Aktiva TV HD" group-title="🇹🇷 Türkiyə HD",Aktiva TV HD
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Super TV HD" group-title="🇹🇷 Türkiyə HD",Supet TV HD
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Visiyon Televisiyon TV HD" group-title="🇹🇷 Türkiyə HD",Visiyon Televisiyon HD
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Dream Turk TV HD" group-title="🇹🇷 Türkiyə HD",Dream Turk HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Fines TV HD" group-title="🇹🇷 Türkiyə HD",Fines HD
+https://media.finest.tv/hls/live.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Kanal 23 TV HD" group-title="🇹🇷 Türkiyə HD",Kanal 23 HD
+https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v2a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Kanal 24 TV HD" group-title="🇹🇷 Türkiyə HD",Kanal 24 HD
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Kanal 32 TV HD" group-title="🇹🇷 Türkiyə HD",Kanal 32 HD
+https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
+
+
+
+
+# ===== 🦥 BELGESEL HD =====
+
+
+
+
+#EXTINF:-1 tvg-name="Yaban TV HD" group-title="🦥 BELGESEL HD",Yaban TV HD
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6868/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="belge TV HD" group-title="🦥 BELGESEL HD",belge HD
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Documentary TV HD" group-title="🦥 BELGESEL HD",Documentary HD
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Discovering China TV HD" group-title="🦥 BELGESEL HD",Discovering ChinaHD
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Documentary + TV HD" group-title="🦥 BELGESEL HD",Documentary + HD
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="365 Days TV HD" group-title="🦥 BELGESEL HD",365 Days HD
+http://stream.mcquack.net/70/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name=" HD"Persiana Docs group-title="🦥 BELGESEL HD",Persiana Docs HD
+https://scihls.persiana.live/hls/stream.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name=" HD"NANO group-title="🦥 BELGESEL HD",NANO HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" HD"Viju + Planet group-title="🦥 BELGESEL HD",Viju + Planet HD
+http://stream.mcquack.net/240/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" HD"Дикая охота group-title="🦥 BELGESEL HD",Дикая охота HD
+http://stream.mcquack.net/274/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" HD"Рыболов group-title="🦥 BELGESEL HD",Рыболов HD
+http://stream.mcquack.net/264/index.m3u8
+
+
+
+# ===== 🇨🇵 RUSİYA HD =====
+
+
+
+#EXTINF:-1 tvg-name="Kinorozak TV HD" group-title="🇨🇵 RUSİYA HD"Kinorozak HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+
+
+
+#EXTINF:-1 tvg-name="RUSİYA 1TV HD" group-title="🇨🇵 RUSİYA HD",RUSİYA 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="HTB TV HD" group-title="🇨🇵 RUSİYA HD",HTB HD
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="HTB HD TV HD" group-title="🇨🇵 RUSİYA HD",HTB HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="RT HD TV HD" group-title="🇨🇵 RUSİYA HD",RT HD
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="RU HD TV HD" group-title="🇨🇵 RUSİYA HD",RU HD
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="RU TV Kidis HD TV HD" group-title="🇨🇵 RUSİYA HD",RU  TV Kidis HD
+https://rutvkids.ru/live/efir/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="RUSİYA 24 TV HD" group-title="🇨🇵 RUSİYA HD",RUSİYA 24 HD
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="RUSİYA K TV HD" group-title="🇨🇵 RUSİYA HD",RUSİYA K HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Zvezda TV HD" group-title="🇨🇵 RUSİYA HD",Zvezda HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="MİR TV HD" group-title="🇨🇵 RUSİYA HD",MİR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="24 Krim TV HD" group-title="🇨🇵 RUSİYA HD",24 Krim HD
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Khl prime TV HD" group-title="🇨🇵 RUSİYA HD",khl prime HD
+http://stream.mcquack.net/178/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Viju planet TV HD" group-title="🇨🇵 RUSİYA HD",Viju planet HD
+http://stream.mcquack.net/240/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Karusey TV HD" group-title="🇨🇵 RUSİYA HD",Karusey HD
+https://streaming102.interskytech.com/live/232.m3u8
+
+
+
+#EXTINF:-1 tvg-name="RED TV HD" group-title="🇨🇵 RUSİYA HD",RED HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+
+# ===== 🇺🇦 UKRANİYA HD =====
+
+
+
+
+#EXTINF:-1 tvg-name="We Ukranie TV HD" group-title="🇺🇦 UKRANİYA HD",We Ukranie HD
+http://stream.mcquack.net/442/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="2+2 TV HD" group-title="🇺🇦 UKRANİYA HD",2+2 HD
+http://stream.mcquack.net/173/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Renome TV HD" group-title="🇺🇦 UKRANİYA HD",Renome HD
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Suspilne kultura TV HD" group-title="🇺🇦 UKRANİYA HD",Suspilne kultura HD
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="24 kanal TV HD" group-title="🇺🇦 UKRANİYA HD",24 kanal HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+
+
+# =====🌍 KİNO HD =====
+
+
+
+#EXTINF:-1 tvg-name="FlimRise Classic HD" group-title="🌍KİNO HD",FlimRise Classic HD
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="My Time HD" group-title="🌍KİNO HD",My Time HD
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="My Time + HD" group-title="🌍KİNO HD",My Time + HD
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="CHA Rge HD" group-title="🌍KİNO HD",CHA Rge HD
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Cafe filim HD" group-title="🌍KİNO HD",Cafe filim HD
+https://cafefhls.wns.live/hls/stream.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="ABN Bible Movies HD" group-title="🌍KİNO HD",BAN Bible Movies HD
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Goldmines Bollywod HD" group-title="🌍KİNO HD",Goldmines Bollywod HD
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Guangzhou tv HD" group-title="🌍KİNO HD",Gouangzhou HD
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Harbin New tv HD" group-title="🌍KİNO HD",Harbin New HD
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+
+
+
+#EXTINF:-1 tvg-name="Harbin Movie tv HD" group-title="🌍KİNO HD",Harbin Movie HD
+https://stream.hrbtv.net/yspd/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Home plus TV HD" group-title="🌍KİNO HD",Home plus HD
+https://homeplushls.wns.live/hls/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Zhejiang TV HD" group-title="🌍KİNO HD",Zhejiang HD
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Belarus TV HD" group-title="🌍KİNO HD",Belarus HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="HTB NET TV HD" group-title="🌍KİNO HD",HTB NET HD
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+
+
+
+
+
+# ===== ⚽🏀 SPORT HD =====
+
+
+
+#EXTINF:-1 tvg-name="Bein esp spor TV HD" group-title="⚽SPORT HD",Bein es spor HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+
+#EXTINF:-1 tvg-name="Unbeaten spor TV HD" group-title="⚽SPORT HD",Unbeaten spor HD
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Trikalor spor TV HD" group-title="⚽SPORT HD",Trikalor spor HD
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Bein spor TV HD" group-title="⚽SPORT HD",Bein spor HD
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Turkmenistan spor TV HD" group-title="⚽SPORT HD",Turkmenistan  spor HD
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+
+#EXTINF:-1 tvg-name=" RED BULL TV HD" group-title="⚽SPORT HD",RED BULL HD
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" FİFA TV HD" group-title="⚽SPORT HD",FİFA HD
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" Esport 3 TV HD" group-title="⚽SPORT HD",Esport 3 HD
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" Fuel TV HD" group-title="⚽SPORT HD",Fuel HD
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+
+
+# ===== 🌠 ÇOCUK HD =====
+
+
+
+
+#EXTINF:-1 tvg-name="TRT COCUK TV HD" group-title="🌠 COCUK HD",TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Minika cocuk TV HD" group-title="🌠 COCUK HD",Minika cocuk HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Minika Go TV HD" group-title="🌠 COCUK HD",Minika Go HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="TRT Diyanet COCUK TV HD" group-title="🌠 COCUK HD",TRT Diyanet COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Karusey TV HD" group-title="🌠 ÇOCUK HD",Karusey HD
+https://streaming102.interskytech.com/live/232.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Rukina TV HD" group-title="🌠 ÇOCUK HD",Rukina HD
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="HiT TV HD" group-title="🌠 ÇOCUK HD",HiT HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Nick Jr TV HD"
+ group-title="🌠 ÇOCUK HD",Nick Jr HD
+https://stream8.cinerama.uz/1501/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Nick Toons TV HD" group-title="🌠 ÇOCUK HD",Nick Toons HD
+https://stream8.cinerama.uz/1502/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="İzod TV HD" group-title="🌠 ÇOCUK HD",İzod HD
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Radost Moya TV HD" group-title="🌠 ÇOCUK HD",Radost Moya HD
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TOOKY TV HD" group-title="🌠 ÇOCUK HD",TOOKY HD
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Zabn Kidis TV HD" group-title="🌠 ÇOCUK HD",Zabn Kidis HD
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="God Stands Kidis TV HD" group-title="🌠 ÇOCUK HD",God Stands Kidis HD
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
