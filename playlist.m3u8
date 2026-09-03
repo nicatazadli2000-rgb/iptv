@@ -1,0 +1,62 @@
+#EXTINF:-1 tvg-name="ATV HD" group-title="Azərbaycan HD",ATV HD
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-name="CBC AZ HD" group-title="Azərbaycan HD",CBC AZ HD
+http://109.205.166.68/server33/hls/cbc_az.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1 tvg-name="ARB TV HD" group-title="Azərbaycan HD",ARB TV HD
+https://tinyurl.com/aleks-u-romki-47/2187/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ARB 24 HD" group-title="Azərbaycan HD",ARB 24 HD
+https://arb24.tvstream.az/hls/stream/stream.m3u8
+#EXTINF:-1 tvg-name="ARB Günəş HD" group-title="Azərbaycan HD",ARB Günəş HD
+https://tinyurl.com/aleks-u-romki-47/2189/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BAKU TV HD" group-title="Azərbaycan HD",BAKU TV HD
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-name="DÜNYA TV HD" group-title="Azərbaycan HD",DÜNYA TV HD
+https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Türkiyə HD",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="NOW TV HD" group-title="Türkiyə HD",NOW TV HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="Türkiyə HD",STAR HD
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-name="Kanal D TV HD" group-title="Türkiyə HD",Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=
+#EXTINF:-1 tvg-name="SHOW TV HD" group-title="Türkiyə HD",SHOW HD
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-name="TRT 1 TV HD" group-title="Türkiyə HD",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Haber TV HD" group-title="Türkiyə HD",TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Halk TV HD" group-title="Türkiyə HD",Halk TV HD
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-name="A Haber TV HD" group-title="Türkiyə HD",A Haber TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-name="A Sport TV HD" group-title="Türkiyə HD",A Sport TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-name="360 TV HD" group-title="Türkiyə HD",360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="Power TV HD" group-title="Türkiyə HD",Power TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FlimRise Classic HD" group-title="KİNO HD",FlimRise Classic HD
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-name="My Time HD" group-title="KİNO HD",My Time HD
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein esp spor TV HD" group-title="SPORT HD",Bein es spor HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Unbeaten spor TV HD" group-title="SPORT HD",Unbeaten spor HD
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RED BULL TV HD" group-title="SPORT HD",RED BULL HD
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA TV HD" group-title="SPORT HD",FIFA HD
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT COCUK TV HD" group-title="COCUK HD",TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Minika Go TV HD" group-title="COCUK HD",Minika Go HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-name="RUSİYA 1TV HD" group-title="RUSİYA HD",RUSİYA 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-name="HTB TV HD" group-title="RUSİYA HD",HTB HD
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RUSİYA 24 TV HD" group-title="RUSİYA HD",RUSİYA 24 HD
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1 tvg-name="MİR TV HD" group-title="RUSİYA HD",MİR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
